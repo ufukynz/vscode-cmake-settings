@@ -8,7 +8,7 @@
             "name": "(lldb) Başlat",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/cpp_prog",
+            "program": "${workspaceFolder}/build/<appName>",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
